@@ -1,6 +1,6 @@
 <!-- Header --->
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" style="transform: rotate(90deg);"/>
 </div>
 <!-- Introduce --->
 <h1 align="center">
@@ -49,8 +49,19 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=KaminariSora&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaminariSora&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  </a>
+</div>
+
+
+
+
 
 <!--
 **KaminariSora/KaminariSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
