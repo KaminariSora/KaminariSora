@@ -4,7 +4,7 @@
 </div>
 <!-- Introduce --->
 <h1 align="center">
-  Hello! My name is Thunder.
+  Hello! I'm Thunder.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- Link badge --->
@@ -19,14 +19,16 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
-- 🏫: I'm a computer engineer student from Srinakharinwirot University.
+I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+- 🏫: Computer engineer student from Srinakharinwirot University.
 
-- ⚡: I'm exited about programming.
+- ⚡: Exited about programming.
 
-- 🥅 Goal: I want to be Fullstack developer.
+- 🥅 Goal: Want to be Fullstack developer.
 
-- 🔭 Fun Fact: I'm very excited in Japanese culture.
+- 🔭 Fun Fact ⊂◉‿◉つ: I'm very excited in Japanese culture.
+
+- 🔭 Fun Fact(2): I love Debirun from Pixela Worldend.
 <!-- Tools --->
 
 ---
