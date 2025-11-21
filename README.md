@@ -27,8 +27,6 @@ I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 - 🥅 Goal: Want to be Fullstack developer.
 
 - 🔭 Fun Fact ⊂◉‿◉つ: I'm very excited in Japanese culture.
-
-- 🔭 Fun Fact(2): I love Debirun from Pixela Worldend.
 <!-- Tools --->
 
 ---
